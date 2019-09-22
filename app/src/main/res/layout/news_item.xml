@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_vertical">
+
+    <TextView
+        android:id="@+id/txtWebName"
+        android:layout_width="25dp"
+        android:layout_height="16dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/bg_red_round"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="BBC"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="9sp" />
+
+    <TextView
+        android:id="@+id/txtNewsContent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_toRightOf="@id/txtWebName"
+        android:gravity="center_vertical"
+        android:text="This is for display NEWS contents"
+        android:textColor="#373C3E"
+        android:textSize="17sp" />
+</RelativeLayout>

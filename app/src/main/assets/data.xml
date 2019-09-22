@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <webitem>
+        <title>VNExpress</title>
+        <description>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</description>
+        <link>http://vnexpress.net/rss/tin-moi-nhat.rss</link>
+        <image>vnexpress</image>
+        <isAdded>true</isAdded>
+        <economic>http://vnexpress.net/rss/kinh-doanh.rss</economic>
+        <politics>-- chinh tri --</politics>
+        <culture>-- van hoa --</culture>
+        <law>http://vnexpress.net/rss/phap-luat.rss</law>
+        <social>-- xa hoi --</social>
+        <education>http://vnexpress.net/rss/giao-duc.rss</education>
+        <science>http://vnexpress.net/rss/khoa-hoc.rss</science>
+        <technology>http://vnexpress.net/rss/so-hoa.rss</technology>
+        <world>http://vnexpress.net/rss/the-gioi.rss</world>
+        <sport>http://vnexpress.net/rss/the-thao.rss</sport>
+    </webitem>
+    <webitem>
+        <title>VietnamNet</title>
+        <description>Chuyên mục - Báo VietNamNet</description>
+        <link>http://vietnamnet.vn/rss/home.rss</link>
+        <image>vietnamnet</image>
+        <isAdded>true</isAdded>
+        <economic>http://vietnamnet.vn/rss/kinh-doanh.rss</economic>
+        <politics>http://vietnamnet.vn/rss/chinh-tri.rss</politics>
+        <culture>http://vietnamnet.vn/rss/doi-song.rss</culture>
+        <law>-- phap luat --</law>
+        <social>-- xa hoi --</social>
+        <education>http://vietnamnet.vn/rss/giao-duc.rss</education>
+        <science>-- khoa hoc --</science>
+        <technology>http://vietnamnet.vn/rss/cong-nghe.rss</technology>
+        <world>http://vietnamnet.vn/rss/the-gioi.rss</world>
+        <sport>http://vietnamnet.vn/rss/the-thao.rss</sport>
+    </webitem>
+    <webitem>
+        <title>24h</title>
+        <description>Tin tức 24h</description>
+        <link>http://www.24h.com.vn/upload/rss/tintuctrongngay.rss</link>
+        <image>w24h</image>
+        <isAdded>true</isAdded>
+        <economic>http://www.24h.com.vn/upload/rss/taichinhbatdongsan.rss</economic>
+        <politics>-- politics --</politics>
+        <culture>http://www.24h.com.vn/upload/rss/lamdep.rss</culture>
+        <social>http://www.24h.com.vn/upload/rss/bantrecuocsong.rss</social>
+        <law>http://www.24h.com.vn/upload/rss/anninhhinhsu.rss</law>
+        <education>http://www.24h.com.vn/upload/rss/giaoducduhoc.rss</education>
+        <science>-- science --</science>
+        <technology>http://www.24h.com.vn/upload/rss/congnghethongtin.rss</technology>
+        <world>http://www.24h.com.vn/upload/rss/tintucquocte.rss</world>
+        <sport>http://www.24h.com.vn/upload/rss/thethao.rss</sport>
+    </webitem>
+    <webitem>
+        <title>Tuổi Trẻ</title>
+        <description>Cơ quan của Đoàn TNCS Hồ Chí Minh</description>
+        <link>http://tuoitre.vn/rss/tt-tin-moi-nhat.rss</link>
+        <image>tuoitre</image>
+        <isAdded>true</isAdded>
+        <economic>http://tuoitre.vn/rss/tt-kinh-te.rss</economic>
+        <politics>http://tuoitre.vn/rss/tt-chinh-tri-xa-hoi.rss</politics>
+        <culture>-- van hoa --</culture>
+        <law>http://tuoitre.vn/rss/tt-phap-luat.rss</law>
+        <social>-- xa hoi --</social>
+        <education>http://tuoitre.vn/rss/tt-giao-duc.rss</education>
+        <science>-- khoa hoc --</science>
+        <technology>-- cong nghe --</technology>
+        <world>http://tuoitre.vn/rss/tt-the-gioi.rss</world>
+        <sport>http://tuoitre.vn/rss/tt-the-thao.rss</sport>
+    </webitem>
+    <webitem>
+        <title>Lao Động</title>
+        <description>Báo Lao Động Điện Tử</description>
+        <link>http://laodong.com.vn/rss/home.rss</link>
+        <image>laodong</image>
+        <isAdded>true</isAdded>
+        <economic>http://laodong.com.vn/rss/kinh-te-63.rss</economic>
+        <politics>http://laodong.com.vn/rss/van-hoa-the-thao-1322.rss</politics>
+        <culture>http://laodong.com.vn/rss/cong-doan-58.rss</culture>
+        <law>http://laodong.com.vn/rss/phap-luat-65.rss</law>
+        <social>http://laodong.com.vn/rss/thoi-su-xa-hoi-1321.rss</social>
+        <education>-- giao duc --</education>
+        <science>-- khoa hoc --</science>
+        <technology>http://laodong.com.vn/rss/cong-nghe-66.rss</technology>
+        <world>http://laodong.com.vn/rss/the-gioi-62.rss</world>
+        <sport>-- the thao --</sport>
+    </webitem>
+    <webitem>
+        <title>Nhân Dân</title>
+        <description>Cơ quan TW của Đảng Cộng Sản Việt Nam</description>
+        <link>http://nhandan.com.vn/rss/kinhte.html</link>
+        <image>nhandan</image>
+        <isAdded>true</isAdded>
+        <economic>http://nhandan.com.vn/rss/kinhte.html</economic>
+        <politics>http://nhandan.com.vn/rss/chinhtri.html</politics>
+        <culture>http://nhandan.com.vn/rss/vanhoa.html</culture>
+        <law>http://nhandan.com.vn/rss/xahoi/phapluat.html</law>
+        <social>http://nhandan.com.vn/rss/xahoi.html</social>
+        <education>http://nhandan.com.vn/rss/giaoduc.html</education>
+        <science>http://nhandan.com.vn/rss/khoahoc.html</science>
+        <technology>http://nhandan.com.vn/rss/congnghe.html</technology>
+        <world>http://nhandan.com.vn/rss/thegioi.html</world>
+        <sport>http://nhandan.com.vn/rss/thethao.html</sport>
+    </webitem>
+    <webitem>
+        <title>Thanh Niên</title>
+        <description>Diễn đàn hội liên hiệp thanh niên Việt Nam</description>
+        <link>http://thanhnien.vn/rss/home.rss</link>
+        <image>thanhnien</image>
+        <isAdded>true</isAdded>
+        <economic>http://thanhnien.vn/rss/kinh-te.rss</economic>
+        <politics>http://thanhnien.vn/rss/chinh-tri-xa-hoi.rss</politics>
+        <culture>http://thanhnien.vn/rss/van-hoa-nghe-thuat.rss</culture>
+        <law>http://thanhnien.vn/rss/quoc-phong.rss</law>
+        <social>http://thanhnien.vn/rss/doi-song.rss</social>
+        <education>http://thanhnien.vn/rss/giao-duc.rss</education>
+        <science>-- khoa hoc --</science>
+        <technology>-- cong nghe --</technology>
+        <world>http://thanhnien.vn/rss/the-gioi.rss</world>
+        <sport>http://thanhnien.vn/rss/the-thao.rss</sport>
+    </webitem>
+    <webitem>
+        <title>Tiền Phong</title>
+        <description>Cơ quan TW của Đoàn TNCS Hồ Chí Minh</description>
+        <link>http://www.tienphong.vn/rss/xa-hoi-2.rss</link>
+        <image>tienphong</image>
+        <isAdded>true</isAdded>
+        <economic>http://www.tienphong.vn/rss/kinh-te-3.rss</economic>
+        <politics>-- chinh tri --</politics>
+        <culture>http://www.tienphong.vn/rss/giai-tri-36.rss</culture>
+        <social>http://www.tienphong.vn/rss/gioi-tre-4.rss</social>
+        <law>http://www.tienphong.vn/rss/phap-luat-12.rss</law>
+        <education>http://www.tienphong.vn/rss/giao-duc-71.rss</education>
+        <science>http://www.tienphong.vn/rss/cong-nghe-45.rss</science>
+        <technology>http://www.tienphong.vn/rss/cong-nghe-khoa-hoc-46.rss</technology>
+        <world>http://www.tienphong.vn/rss/the-gioi-5.rss</world>
+        <sport>http://www.tienphong.vn/rss/the-thao-11.rss</sport>
+    </webitem>
+
+    <webitem>
+        <title>Người Lao Động</title>
+        <description>Tiếng nói của Liên đoàn lao động TP Hồ Chí Minh</description>
+        <link>http://nld.com.vn/tin-moi-nhat.rss</link>
+        <image>nld</image>
+        <isAdded>true</isAdded>
+        <economic>http://nld.com.vn/kinh-te.rss</economic>
+        <politics>http://nld.com.vn/thoi-su-trong-nuoc.rss</politics>
+        <culture>http://nld.com.vn/van-hoa-van-nghe.rss</culture>
+        <social>http://nld.com.vn/thi-truong.rss</social>
+        <law>http://nld.com.vn/phap-luat.rss</law>
+        <education>http://nld.com.vn/giao-duc-khoa-hoc.rss</education>
+        <science>-- science -- </science>
+        <technology>http://nld.com.vn/cong-nghe-thong-tin.rss</technology>
+        <world>http://nld.com.vn/cong-nghe-thong-tin.rss</world>
+        <sport>http://nld.com.vn/the-thao.rss</sport>
+    </webitem>
+
+</employees>
